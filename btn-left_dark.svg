@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.09 40.94">
+  <g id="left">
+    <path id="main-fram" d="m15.09,1.02h-2.74c0,.08,0,.17,0,.25,0,6.27-5.08,11.36-11.35,11.36v16.01c6.25,0,11.32,5.06,11.35,11.31h2.74" style="fill: none; stroke: #9b8f5c; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <path id="inner-rt" d="m1,30.25v4.43h0c.29-.02,2.29-.13,3.86,1.42,1.57,1.56,1.47,3.55,1.46,3.84h4.39" style="fill: none; stroke: #9b8f5c; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <path id="inner-rt-2" data-name="inner-rt" d="m1,10.72v-4.43h0c.29.02,2.29.13,3.86-1.42,1.57-1.56,1.47-3.55,1.46-3.84h4.39" style="fill: none; stroke: #9b8f5c; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <rect width="2.14" height="2.14" style="fill: #9b8f5c; stroke-width: 0px;"/>
+    <rect y="38.8" width="2.14" height="2.14" style="fill: #9b8f5c; stroke-width: 0px;"/>
+  </g>
+</svg>
